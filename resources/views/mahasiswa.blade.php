@@ -10,7 +10,7 @@
                 @if (count($dtMahasiswa) >= 5)
                     success
                 @else
-                    danger
+                    danger sekali
                 @endif
             @endslot
             @slot('judul')
